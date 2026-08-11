@@ -1,4 +1,4 @@
-<img width="1599" height="749" alt="image" src="https://github.com/user-attachments/assets/c3753e60-15f1-406a-b0cd-a1b4845d2115" /># 🎧 Realme Buds Showcase
+# 🎧 Realme Buds Showcase
 
 A modern, responsive product showcase website for Realme Buds series (T110, T200, T200 Lite).
 
@@ -21,6 +21,9 @@ A modern, responsive product showcase website for Realme Buds series (T110, T200
 
 
 <img width="1599" height="749" alt="Screenshot From 2026-08-12 02-09-32" src="https://github.com/user-attachments/assets/64226638-caeb-45b2-b7bf-e27c32ce89ed" />
+
+
+<img width="1599" height="749" alt="image" src="https://github.com/user-attachments/assets/c3753e60-15f1-406a-b0cd-a1b4845d2115" />
 
 
 
